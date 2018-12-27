@@ -1,0 +1,10 @@
+- support both python & javascript
+- directory and files
+- text and string
+- structure data : json, csv
+- image
+	- extract text from image
+	- manipulate
+- desktop : pyautogui
+- web : selenium
+- trade : 

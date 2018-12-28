@@ -2,8 +2,11 @@
 	- support both python & javascript
 	- provide both data and code
 
-- directory and files
-- text and string
+- file system
+	- sc1: copy all file with specific type inside recursive folder structure to one place
+	- sc2: 
+
+- text
 	- regular expression for extract pattern
 	- analysis server log
 - excel
